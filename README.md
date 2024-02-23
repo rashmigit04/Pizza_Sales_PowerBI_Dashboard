@@ -2,6 +2,6 @@
 
 Hello There!
 
-This ia an End-to_End PowerBI Report.
+This is an End-to_End PowerBI Report.
 
 Thank You!
