@@ -56,7 +56,7 @@ We need to analyze key performance indicators for pizza sales data to gain insig
 - July
 
 ## 🍕Customer Behavior Analysis :-
-🔶Which pizza is the favorite of customers (most ordered pizza)?
+## 🔶Which pizza is the favorite of customers (most ordered pizza)?
 - The Classic Deluxe Pizza
 
 ## 🔶Top 5 pizzas by revenue :-
@@ -70,7 +70,7 @@ We need to analyze key performance indicators for pizza sales data to gain insig
 - The Classic Deluxe Pizza 
 
 ## 🍕Pizza Analysis :-
-🔶 Pizza with the least price?
+## 🔶 Pizza with the least price?
 - The Pepperoni Pizza 
 
 ## 🔶Pizza with the highest price?
