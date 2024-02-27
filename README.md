@@ -85,9 +85,6 @@ We need to analyze key performance indicators for pizza sales data to gain insig
 🔸Mushrooms 🍄
 
 
-## You can check out the project file 👇
-https://lnkd.in/dRRxVWD3
-
 
 ## This project has been a fantastic learning experience, and I can't wait to continue exploring the world of data analytics and visualization with Power BI.
 
