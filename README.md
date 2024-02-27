@@ -11,7 +11,7 @@
 
 ## Importing Raw data:-
 1) Data Pre-Processing in MySQL 
-2) Data-Analysis in MYSQL 
+2) Data-Analysis in MySQL 
 3) Connecting and shaping the Data in Power BI 
 4) Creating Data Model 
 5) Calculating Measures with DAX
