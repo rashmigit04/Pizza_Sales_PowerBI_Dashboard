@@ -1,11 +1,11 @@
 ## Hello There!
 
-This is an End-to_End PowerBI Report, where I dived deep into data modelling, created relationships and crafted a comprehensive report using a fascinating dataset.
+## This is an End-to_End PowerBI Report, where I dived deep into data modelling, created relationships and crafted a comprehensive report using a fascinating dataset.
 
 
 ## My First Power BI Project: Pizza Sales Dashboard 🍕
 
-I'm thrilled to share my very first Power BI project, where I dived into data modeling, created relationships, and crafted a comprehensive report using a fascinating dataset.
+## I'm thrilled to share my very first Power BI project, where I dived into data modeling, created relationships, and crafted a comprehensive report using a fascinating dataset.
 
 ## 🍕PROJECT OUTLINE:
 
